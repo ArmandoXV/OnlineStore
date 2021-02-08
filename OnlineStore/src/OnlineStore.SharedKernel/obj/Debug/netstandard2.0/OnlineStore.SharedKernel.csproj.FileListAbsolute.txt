@@ -1,0 +1,9 @@
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\bin\Debug\netstandard2.0\OnlineStore.SharedKernel.deps.json
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\bin\Debug\netstandard2.0\OnlineStore.SharedKernel.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\bin\Debug\netstandard2.0\OnlineStore.SharedKernel.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.csprojAssemblyReference.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.AssemblyInfoInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.AssemblyInfo.cs
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.SharedKernel\obj\Debug\netstandard2.0\OnlineStore.SharedKernel.pdb

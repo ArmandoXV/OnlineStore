@@ -1,0 +1,17 @@
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Infrastructure.deps.json
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Infrastructure.runtimeconfig.json
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Infrastructure.runtimeconfig.dev.json
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Infrastructure.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Infrastructure.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Core.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.SharedKernel.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.Core.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\bin\Debug\netcoreapp3.1\OnlineStore.SharedKernel.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.csprojAssemblyReference.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.AssemblyInfoInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.AssemblyInfo.cs
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.csproj.CopyComplete
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Infrastructure\obj\Debug\netcoreapp3.1\OnlineStore.Infrastructure.genruntimeconfig.cache

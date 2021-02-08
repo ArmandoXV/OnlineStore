@@ -1,0 +1,12 @@
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\bin\Debug\netstandard2.1\OnlineStore.Core.deps.json
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\bin\Debug\netstandard2.1\OnlineStore.Core.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\bin\Debug\netstandard2.1\OnlineStore.Core.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\bin\Debug\netstandard2.1\OnlineStore.SharedKernel.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\bin\Debug\netstandard2.1\OnlineStore.SharedKernel.pdb
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.csprojAssemblyReference.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.AssemblyInfoInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.AssemblyInfo.cs
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.csproj.CoreCompileInputs.cache
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.csproj.CopyComplete
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.dll
+D:\Repository\ASP.netApp\OnlineStore\OnlineStore\src\OnlineStore.Core\obj\Debug\netstandard2.1\OnlineStore.Core.pdb

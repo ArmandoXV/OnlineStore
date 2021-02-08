@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0PKHRA2QwzaaOUSGIw2xeIVuYGagVnI3OJC7ArX4aG63/8QZ0W8lTrrvyze4iHlnGBCY5/SkLCau4xDogapV5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Repository\\ASP.netApp\\OnlineStore\\OnlineStore\\src\\OnlineStore.SharedKernel\\OnlineStore.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
